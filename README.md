@@ -29,7 +29,8 @@
 
 
 # Deployed Page
-<a href="https://github.com/VAalchemist/note-taker">Note Taker</a> 
+<a href="https://take-notess.herokuapp.com/">Note Taker</a> 
+
 
 
 # Packages Used
