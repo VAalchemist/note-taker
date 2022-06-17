@@ -19,8 +19,8 @@
 
 
 # Photos
-![demo photo](assets\images\snap2.PNG)
-![demo photo](assets\images\snap1.PNG)
+![demo photo](public\assets\cap2.PNG)
+![demo photo](public\assets\cap1.PNG)
 
 # Installation
 * Download or clone repository.
